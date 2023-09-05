@@ -4,9 +4,59 @@
       box-sizing: border-box;
 
 }
+body{ 
+      background-image: url(accets/baskgroun.jpg);
+      height: 100%;
+      width: 100%;
+      
+}
 
-button{
-      border: 5px solid crimson;
-      font-size: 6rem;
-      text-shadow: 2px crimson;
+.w{
+      font-size: 5rem;
+      font-weight: 500;
+      text-shadow: 20px sandybrown;
+      color: burlywood;
+      border: 5px solid wheat;
+      padding: 0.2em;
+
+}
+
+
+.a{
+      font-size: 5rem;
+      font-weight: 500;
+      text-shadow: 20px sandybrown;
+      color: burlywood;
+
+}
+.b{
+      font-size: 5rem;
+      font-weight: 500;
+      text-shadow: 20px sandybrown;
+      color: burlywood;
+
+}
+
+.s{
+      font-size: 5rem;
+      font-weight: 500;
+      text-shadow: 20px sandybrown;
+      color: burlywood;
+
+}
+
+.p{
+      font-size: 5rem;
+      font-weight: 500;
+      text-shadow: 20px sandybrown;
+      color: burlywood;
+
+}
+
+.t{
+      font-size: 5rem;
+      font-weight: 500;
+      text-shadow: 20px sandybrown;
+      color: burlywood;
+
 }
