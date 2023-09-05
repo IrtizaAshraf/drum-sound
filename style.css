@@ -17,7 +17,8 @@ body{
       text-shadow: 20px sandybrown;
       color: burlywood;
       border: 5px solid wheat;
-      padding: 0.2em;
+      padding: 0.5em;
+      background-image: url(accets/1.jpg);
 
 }
 
@@ -27,6 +28,9 @@ body{
       font-weight: 500;
       text-shadow: 20px sandybrown;
       color: burlywood;
+      border: 5px solid wheat;
+      padding: 0.5em;
+      background-image: url(accets/3.webp);
 
 }
 .b{
@@ -34,6 +38,9 @@ body{
       font-weight: 500;
       text-shadow: 20px sandybrown;
       color: burlywood;
+      border: 5px solid wheat;
+      padding: 0.5em;
+      background-image: url(accets/back\ 2.webp);
 
 }
 
@@ -42,6 +49,9 @@ body{
       font-weight: 500;
       text-shadow: 20px sandybrown;
       color: burlywood;
+      border: 5px solid wheat;
+      padding: 0.5em;
+      background-image: url(accets/pinoo.jpg);
 
 }
 
@@ -50,6 +60,9 @@ body{
       font-weight: 500;
       text-shadow: 20px sandybrown;
       color: burlywood;
+      border: 5px solid wheat;
+      padding: 0.5em;
+      background-image: url(accets/pianoo2.png);
 
 }
 
@@ -58,5 +71,23 @@ body{
       font-weight: 500;
       text-shadow: 20px sandybrown;
       color: burlywood;
+      border: 5px solid wheat;
+      padding: 0.5em;
+      background-image: url(accets/2.jpg);
+
+}
+
+#error-message{
+      
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color:transparent;
+      color: rgb(255, 255, 255);
+      text-align: center;
+      padding: 10px;
+      font-size: xx-large;
+      font-weight: 400;
 
 }
